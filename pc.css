@@ -1,0 +1,25 @@
+
+.header a {
+    display: inline;
+    }
+
+.header h1 {
+    display: inline;
+}
+.header img{
+    margin-left: 5%;
+} 
+
+.banner {
+    height: 80vh;
+    
+}
+
+
+    
+}
+
+.campus {
+    flex-flow: row wrap;
+}
+
